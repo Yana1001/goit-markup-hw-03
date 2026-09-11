@@ -1,0 +1,27 @@
+.team {
+  background-color: #f4f4fd;
+}
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+}
+.team-list {
+}
+.team-item {
+  background: #fff;
+}
+.team-img {
+}
+.team-caption {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+}
+.team-text {
+  font-weight: 400;
+  text-align: center;
+  color: #434455;
+}

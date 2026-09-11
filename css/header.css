@@ -1,0 +1,26 @@
+.main-nav {
+}
+.main-list {
+}
+.main-item {
+}
+.main-nav-link {
+}
+.main-nav-link:hover,
+.main-nav-link:focus {
+  color: #404bbf;
+}
+.contacts {
+}
+.contacts-list {
+}
+.contacts-item {
+}
+.contacts-link {
+  font-weight: 400;
+  color: #434455;
+}
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
+}
