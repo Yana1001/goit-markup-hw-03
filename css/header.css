@@ -20,7 +20,6 @@
 }
 .main-nav-link {
   display: block;
-
   padding: 24px 0;
 }
 .main-nav-link:hover,
@@ -35,12 +34,11 @@
   gap: 40px;
 }
 .contacts-item {
-  padding: 24px 0;
 }
 .contacts-link {
+  padding: 24px 0;
   font-weight: 400;
   color: #434455;
-  padding: 24px 0;
 }
 .contacts-link:hover,
 .contacts-link:focus {
