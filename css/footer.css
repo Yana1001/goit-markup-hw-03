@@ -1,5 +1,9 @@
 .footer {
   background-color: #2e2f42;
+  padding: 100px 0;
+}
+.container-footer {
+  max-width: 264px;
 }
 .footer-logo {
   font-family: "Raleway", sans-serif;
@@ -11,6 +15,7 @@
   color: #f4f4fd;
 }
 .footer-text {
+  margin-top: 16px;
   font-weight: 400;
   color: #f4f4fd;
 }
