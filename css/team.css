@@ -1,4 +1,5 @@
 .team {
+  padding: 120px 0;
   background-color: #f4f4fd;
 }
 .team-title {
@@ -15,17 +16,14 @@
   gap: 24px;
 }
 .team-item {
- width: calc((100% - 24px * 3) / 4);
-  
+  width: calc((100% - 24px * 3) / 4);
+
   border-radius: 0 0 4px 4px;
   box-shadow:
     0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16),
     0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
- 
-
-  
 }
 .team-img {
   object-fit: cover;
@@ -34,7 +32,6 @@
 }
 .container-caption {
   padding: 32px 16px;
-
 }
 .team-caption {
   margin-bottom: 8px;

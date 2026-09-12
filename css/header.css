@@ -1,3 +1,7 @@
+.header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
 .header .container {
   display: flex;
   align-items: center;
@@ -6,6 +10,8 @@
 .main-nav {
 }
 .main-list {
+  margin-left: 76px;
+  margin-right: auto;
   display: flex;
   align-items: center;
   gap: 40px;
